@@ -35,8 +35,6 @@ public class Question01 {
 		}
 		System.out.println("Girdiginiz cumlede " + harf +" karakteri "+ count+ " kere kullanilmistir");
 
-
-
 		scan.close();
 	}
 }
